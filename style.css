@@ -1,0 +1,22 @@
+body{
+  background-color:#00b894;
+}
+
+.box{
+  background-color:#fff;
+  height: 180px;
+  
+  
+}
+.wrapper{
+  
+  height: 100vh;
+}
+.bat{
+  color:#00b894;
+  border-color:#00b894;
+}
+.btth{
+  background-color:#00b894;
+  color:#ffffff;
+}
